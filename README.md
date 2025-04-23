@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nagabhushan
-- 🌱 I’m currently learning ML , Database Management etc.
+- 🌱 I’m currently learning Cloud Computing etc.
 - 📫 You can reach me on Discord - nags_2k4
 
 <!---
